@@ -1,4 +1,4 @@
-Pour lancer le projet :  
+Pour lancer le projet EN LOCAL UNIQUEMENT PLZZZ:  
 1. tout d’abord télécharger le dossier DermAI_Final et le dézipper 
 2. dans le fichier app.py changer le chemin du fichier 
 vgg16_finetuned_janvier.keras par le votre 
